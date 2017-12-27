@@ -1,0 +1,12 @@
+#departmant_index td:nth-child(2){
+  width: 80%;
+}
+
+a > i.fa{
+  color: #333;
+}
+
+.page-head-line > a{
+  font-size: 13px;
+  text-transform: none;
+}
